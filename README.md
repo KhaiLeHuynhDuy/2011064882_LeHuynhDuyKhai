@@ -4,4 +4,3 @@
 
 - **Họ và Tên:** Lê Huỳnh Duy Khải
 - **Email:** khaile.huynhduy@gmail.com
-- **Trang Web/Portfolio:** [Nếu có]
